@@ -6,8 +6,8 @@ ________________________________________________________________________________
 **Microservices**
 You will work with two backend microservices:
 1. Patient Service (Node.js)
-•	Manages patient details
-•	REST APIs for CRUD operations
+  •	Manages patient details
+  •	REST APIs for CRUD operations
 2. Appointment Service (Node.js)
 _____________________________________________________________________________________________________________________________________________________________________________
 **CI Pipeline (GitHub Actions)**
