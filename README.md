@@ -28,7 +28,8 @@ Amazon ECS (Fargate preferred)
 
 **Secrets Management**
 Secure handling of secrets is mandatory.
-Containerization
+
+**Containerization**
 1.	Containerize all microservices using Docker
 2.	Use optimized and secure Dockerfiles
 3.	Prefer multi stage builds where possible
